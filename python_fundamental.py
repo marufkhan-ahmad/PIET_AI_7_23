@@ -16,3 +16,9 @@
 #   git config --global user.email "2020pgics043poornima.org"
 # Remote Repository Connect
 # git remote add origin "https://github.com/repo.git"
+# Daily process
+# save and commit all changes
+# git add .
+# git commit -m "First commit"
+# push the changes to github
+# git push origin main
