@@ -14,3 +14,5 @@
 # User configuration
 #   git config --global user.name "Maruf khan"
 #   git config --global user.email "2020pgics043poornima.org"
+# Remote Repository Connect
+# git remote add origin "https://github.com/repo.git"
